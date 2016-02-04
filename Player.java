@@ -50,7 +50,7 @@ public class Player{
     this.down = false;
     this.left = false;
     this.right = false;
-    this.maxSpeed = 17; //maximum speed which the player can move at
+    this.maxSpeed = 6; //maximum speed which the player can move at //17
     this.w = img.getWidth();
     this.h = img.getHeight();
     this.lives = 3;

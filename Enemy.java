@@ -26,7 +26,7 @@ public class Enemy{
     rot = grot;
     xbound = gxbound;
     ybound = gybound;
-    speed = 7;
+    speed = 4; //7
     w = 18;
     h = 18;
     /*Since the enemy is a rectangle, a proper collision circle for them would have a diameter equivalent to a diagonal
