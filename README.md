@@ -9,5 +9,5 @@ The instructions are as follows and can be found in-game:
 
 Some gameplay shots can also be seen here:
 
-![alt text](https://raw.githubusercontent.com/emzarem/Geometry-Wars-Project/master/Gameplay_Example.JPG)
-![alt text](https://raw.githubusercontent.com/emzarem/Geometry-Wars-Project/master/Menu_Example.JPG)
+![alt text](https://raw.githubusercontent.com/emzarem/Geometry-Wars-Project/master/Gameplay_Example.jpg)
+![alt text](https://raw.githubusercontent.com/emzarem/Geometry-Wars-Project/master/Menu_Example.jpg)
